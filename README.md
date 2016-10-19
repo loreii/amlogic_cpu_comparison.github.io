@@ -8,4 +8,4 @@ All specifications are subject to change without notice.
 A preview of page is available under : http://loreii.com/amlogic/
 
 
-![alt text](https://raw.githubusercontent.com/loreii/amlogic_cpu_comparison.github.io/master/amlogic_cpu_comparion.png "preview")
+![alt text](https://raw.githubusercontent.com/loreii/amlogic_cpu_comparison.github.io/master/amlogic_cpu_comparison.png "preview")
